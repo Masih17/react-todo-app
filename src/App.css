@@ -30,13 +30,7 @@ h1 {
   text-transform: uppercase;
 }
 
-.input-wrapper {
-  margin: 3.5rem;
-}
 
-.todos-wrapper {
-  margin-bottom: 2.5rem;
-}
 
 .todo {
   display: flex;
