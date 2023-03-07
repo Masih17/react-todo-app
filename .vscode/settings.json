@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/74d52b67-f726-4976-8113-e37854620b67/resourceGroups/test-todo-app/providers/Microsoft.Web/sites/test-todo-app",
+    "appService.deploySubpath": "build"
+}
